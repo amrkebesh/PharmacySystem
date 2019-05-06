@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLUseCaseDiagram1">
+  <useCaseModelRootMoniker Id="af4c6eae-7862-4db7-ba2d-87284e445240" />
+  <nestedChildShapes>
+    <artifactShape Id="8a425f20-2d0c-4206-98f2-0a14bd7cbba9" absoluteBounds="3.125, 3.25, 1.5, 0.5" customColor="161, 199, 231">
+      <artifactMoniker Id="b3eba2d7-4750-4178-a978-39acbd6fba5c" LastKnownName="checkout page.aspx" />
+    </artifactShape>
+    <artifactShape Id="a49a7120-23fd-4044-ae5f-ed09152f9530" absoluteBounds="5.875, 1.25, 1.5, 0.5" customColor="161, 199, 231">
+      <artifactMoniker Id="4f54d01f-8510-4235-895d-7134d5a04947" LastKnownName="cust.aspx" />
+    </artifactShape>
+    <artifactShape Id="05b15fdc-ca03-472b-88a6-84cf2714f7df" absoluteBounds="5, 2.875, 1.5, 0.5" customColor="161, 199, 231">
+      <artifactMoniker Id="5f921b30-e82f-4f06-ab05-bae40ce6a280" LastKnownName="good.aspx" />
+    </artifactShape>
+  </nestedChildShapes>
+</useCaseDiagram>

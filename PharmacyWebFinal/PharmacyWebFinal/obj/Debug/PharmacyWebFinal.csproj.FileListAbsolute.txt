@@ -1,0 +1,12 @@
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.csprojResolveAssemblyReference.cache
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.dll.config
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.dll
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.pdb
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.dll
+c:\users\hanie\documents\visual studio 2013\Projects\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.pdb
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.dll.config
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.dll
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\bin\PharmacyWebFinal.pdb
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.dll
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.pdb
+C:\Users\Hanie\Desktop\PharmacyWebFinal\PharmacyWebFinal\obj\Debug\PharmacyWebFinal.csprojResolveAssemblyReference.cache

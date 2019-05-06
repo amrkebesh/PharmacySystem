@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="af4c6eae-7862-4db7-ba2d-87284e445240" name="UMLUseCaseDiagram1" linkedPackageId="16f85126-30ea-4df0-83e9-f76ddd549aa6" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="6cf040d6-ac04-4e84-9d0d-376006993f7e">
+      <profileInstance Id="ba9c410f-d6d2-4f59-86cf-032a9cd07d88" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="72888334-3f9a-43df-9f6c-3afa485a372e">
+      <profileInstance Id="a21ed383-718f-491f-8326-cda4086cccf0" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <artifact Id="b3eba2d7-4750-4178-a978-39acbd6fba5c" name="checkout page.aspx" isAbstract="false" isLeaf="false" fileName="pharmacywebfinal\checkout page.aspx">
+        <elementDefinition Id="4bf001b0-2c4e-4e46-85c2-0d46c2e60bdc" />
+      </artifact>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <artifact Id="4f54d01f-8510-4235-895d-7134d5a04947" name="cust.aspx" isAbstract="false" isLeaf="false" fileName="pharmacywebfinal\cust.aspx">
+        <elementDefinition Id="d6369228-e16d-4133-a1f8-12594f3cfb04" />
+      </artifact>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <artifact Id="5f921b30-e82f-4f06-ab05-bae40ce6a280" name="good.aspx" isAbstract="false" isLeaf="false" fileName="pharmacywebfinal\good.aspx">
+        <elementDefinition Id="c5f0d35e-9007-4c9f-9839-6fb24803df48" />
+      </artifact>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="16f85126-30ea-4df0-83e9-f76ddd549aa6" name="Test">
+    <elementDefinition Id="390d48db-5785-405b-accf-c4d3a33bb661" />
+  </package>
+</useCaseModelRoot>
